@@ -3,7 +3,7 @@
 
 # Sobre o Projeto
 
-Este Projeto e uma aplicacao back-end, possui um sistema de login para registrar conta e autentiacar, todos os dados sao guardados na banco de dados mongo DB
+Este Projeto e uma aplicacao back-end, possui um sistema de login para registrar conta e autentiacar, todos os dados sao guardados no banco de dados MONGO DB
 
 # Requisitos
   - Node.js
